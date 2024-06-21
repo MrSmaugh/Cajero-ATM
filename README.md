@@ -1,6 +1,6 @@
 # Cajero-ATM
 
-# no funciona
+# Aclaracion (no funciona)
 
 Esta aplicacion simularia la interfaz de un cajero (atm) teniendo las siguientes funciones:
 - Ingresu de numero de tarjeta
